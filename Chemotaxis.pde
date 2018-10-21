@@ -1,5 +1,3 @@
-//Chemotaxis
-//different speeds; different shapes mimic mouse movements
 Bacteria[] regenald;
 void setup()   
 {    
